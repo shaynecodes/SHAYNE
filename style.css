@@ -1,0 +1,53 @@
+.body{
+    background-color: rgb(250, 204, 209);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav{
+    background-color: rgb(240, 151, 166);
+}
+.h1{
+    color: rgb(253, 176, 200);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.main{
+    background-color: rgb(240, 177, 187);
+    text-align: left;
+}
+.hru{
+    text-align: center;
+}
+.text{
+    text-align: center;
+
+}
+.h5{
+
+}
+.div{
+    background-color: rgb(243, 126, 141);
+}
+ul{
+    margin: 0;
+    padding: 0%;
+    overflow: hidden;
+
+}
+li{
+    float: right;
+    display: block;
+    color: rgb(15, 11, 11);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li:hover{
+    background-color: rgb(255, 171, 183);
+}
+footer{
+    text-align: center;
+}
+.button{
+    text-align:left;
+}
